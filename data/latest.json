@@ -16,7 +16,7 @@
     "sofascoreTeamId": 1984,
     "sofascoreAutomationStatus": "GITHUB_EGRESS_403",
     "sofascoreWebFallback": true,
-    "sofascoreIdentityPlayers": 34,
+    "sofascoreIdentityPlayers": 35,
     "sofascoreIdentityCheckedAt": "2026-09-30",
     "sofascoreProfileFallback": "PUBLIC_WEB",
     "fotmob": "WEB_VERIFIED",
@@ -28,7 +28,9 @@
     "latestMatchRatingsVerified": 7,
     "latestMatchRatingsDate": "2026-09-27",
     "heatmapMode": "PROVIDER_LINK_UNTIL_STRUCTURED_DATA_AVAILABLE",
-    "dataPolicy": "No estimated or fabricated player statistics"
+    "dataPolicy": "No estimated or fabricated player statistics",
+    "rosterVerifiedAt": "2026-09-30",
+    "rosterVerifiedSource": "Sofascore public team page"
   },
   "standings": [],
   "results": [
@@ -1756,14 +1758,23 @@
       "position": "Meias",
       "number": null,
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 1093109,
+      "image": "https://api.sofascore.com/api/v1/player/1093109/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
       "heatmap": null,
-      "sofascoreName": "Eliel"
+      "sofascoreName": "Eliel",
+      "sofascoreProfileUrl": "https://www.sofascore.com/football/player/eliel/1093109",
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/football/player/eliel/1093109",
+        "note": "Mapa de calor disponível no Sofascore; coordenadas estruturadas não expostas pelo fallback web."
+      }
     },
     {
       "name": "Thales Lourenco Rodrigues",
