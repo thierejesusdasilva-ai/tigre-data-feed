@@ -2,6 +2,10 @@ name: Atualizar Sofascore
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/update-sofascore.mjs"
+      - ".github/workflows/update-sofascore.yml"
   schedule:
     - cron: "17 */3 * * *"
 
