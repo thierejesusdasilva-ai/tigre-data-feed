@@ -2,20 +2,55 @@
   "schemaVersion": 1,
   "club": "Criciúma Esporte Clube",
   "competition": "Brasileirão Série B",
-  "checkedAt": "2026-09-30T13:16:02.124717Z",
+  "checkedAt": "2026-09-30T13:20:00Z",
   "sourceState": {
     "goal": "NOT_FETCHED",
-    "sofascore": "FETCH_ERROR",
+    "sofascore": "WEB_FALLBACK_OK",
     "officialRosterAt": "2026-09-24",
     "standingsFresh": false,
     "hasNewIndividualGoalStats": false,
     "sofascoreCommercialApproved": false,
-    "note": "Snapshot oficial; estatisticas individuais ainda pendentes de verificacao da GOAL API. Sem dados comerciais do Sofascore.",
-    "sofascoreCheckedAt": "2026-09-30T13:16:02.124717Z",
-    "sofascoreError": "https://api.sofascore.com/api/v1/team/1984/players: HTTP 403"
+    "note": "GOAL/API principal preservada. Sofascore complementado pela pagina publica quando a API interna bloqueia o IP do GitHub.",
+    "sofascoreCheckedAt": "2026-09-30T13:20:00Z",
+    "sofascoreError": "https://api.sofascore.com/api/v1/team/1984/players: HTTP 403",
+    "sofascoreTeamId": 1984,
+    "sofascoreAutomationStatus": "GITHUB_EGRESS_403",
+    "sofascoreWebFallback": true
   },
   "standings": [],
   "results": [
+    {
+      "id": null,
+      "leagueName": "Brasileirão Série B 2026",
+      "matchRound": 30,
+      "matchDate": "2026-09-27",
+      "matchTime": "11:00",
+      "kickoffUtc": "2026-09-27T14:00:00Z",
+      "homeTeamName": "Criciúma",
+      "awayTeamName": "Avaí",
+      "matchStatus": "FINISHED",
+      "homeTeamFtScore": 3,
+      "awayTeamFtScore": 0,
+      "matchStadium": "Estádio Heriberto Hülse",
+      "dataSource": "Sofascore",
+      "sourceUrl": "https://www.sofascore.com/football/match/avai-criciuma/JOspWc",
+      "apiBacked": false,
+      "source": "Sofascore - página pública",
+      "goals": [
+        {
+          "player": "Nicolas",
+          "minute": 49
+        },
+        {
+          "player": "Luciano Castan",
+          "minute": 59
+        },
+        {
+          "player": "Willean Lepo",
+          "minute": 82
+        }
+      ]
+    },
     {
       "id": null,
       "leagueName": "Brasileirão Série B 2026",
@@ -39,20 +74,20 @@
     {
       "id": null,
       "leagueName": "Brasileirão Série B 2026",
-      "matchRound": 30,
-      "matchDate": "2026-09-27",
-      "matchTime": "11:00",
-      "kickoffUtc": "2026-09-27T14:00:00Z",
-      "homeTeamName": "Criciúma",
-      "awayTeamName": "Avaí",
+      "matchRound": 31,
+      "matchDate": "2026-10-02",
+      "matchTime": "20:30",
+      "kickoffUtc": "2026-10-02T23:30:00Z",
+      "homeTeamName": "Londrina",
+      "awayTeamName": "Criciúma",
       "matchStatus": "SCHEDULED",
       "homeTeamFtScore": null,
       "awayTeamFtScore": null,
-      "matchStadium": "Estádio Heriberto Hülse",
-      "dataSource": "Criciúma Esporte Clube",
-      "sourceUrl": "https://criciuma.com.br/servico-de-jogo/ficha/866-criciuma-x-avai",
+      "matchStadium": "Estádio Jacy Scaff",
+      "dataSource": "Sofascore",
+      "sourceUrl": "https://www.sofascore.com/pt/football/match/londrina-criciuma/JOsxP",
       "apiBacked": false,
-      "source": "Criciúma EC - oficial"
+      "source": "Sofascore - página pública"
     }
   ],
   "players": [
@@ -93,7 +128,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Pedro Henrique"
     },
     {
       "name": "Rodrigo",
@@ -106,7 +142,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Rodrigo Fagundes"
     },
     {
       "name": "Castán",
@@ -119,7 +156,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Luciano Castan"
     },
     {
       "name": "César Martins",
@@ -158,7 +196,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Rômulo"
     },
     {
       "name": "Octávio",
@@ -171,7 +210,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Octavio Henrique"
     },
     {
       "name": "Ruan",
@@ -184,7 +224,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Ruan Rodrigues Carvalho"
     },
     {
       "name": "Marcelo Hermes",
@@ -223,7 +264,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Hiago Alves"
     },
     {
       "name": "Willean Lepo",
@@ -249,7 +291,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Guilherme Lobo"
     },
     {
       "name": "Jean Irmer",
@@ -301,7 +344,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Eduardo Biasi"
     },
     {
       "name": "Fellipe Mateus",
@@ -340,7 +384,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Rómulo Otero"
     },
     {
       "name": "Waguininho",
@@ -392,7 +437,8 @@
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreName": "Yuri"
     },
     {
       "name": "Romarinho",
@@ -432,6 +478,90 @@
       "statsCheckedAt": null,
       "lastMatch": null,
       "heatmap": null
+    },
+    {
+      "name": "Kauã Moroso",
+      "position": "Goleiros",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Kauã Moroso"
+    },
+    {
+      "name": "Erick Garcia",
+      "position": "Zagueiros",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Erick Garcia"
+    },
+    {
+      "name": "Kayck",
+      "position": "Zagueiros",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Kayck"
+    },
+    {
+      "name": "Sandry",
+      "position": "Meias",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Sandry"
+    },
+    {
+      "name": "Eliel",
+      "position": "Meias",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Eliel"
+    },
+    {
+      "name": "Thales Lourenco Rodrigues",
+      "position": "Atacantes",
+      "number": null,
+      "goalId": null,
+      "sofaId": null,
+      "image": null,
+      "stats": null,
+      "statsSource": null,
+      "statsCheckedAt": null,
+      "lastMatch": null,
+      "heatmap": null,
+      "sofascoreName": "Thales Lourenco Rodrigues"
     }
   ]
 }
