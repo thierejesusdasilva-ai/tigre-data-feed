@@ -16,7 +16,7 @@
     "sofascoreTeamId": 1984,
     "sofascoreAutomationStatus": "GITHUB_EGRESS_403",
     "sofascoreWebFallback": true,
-    "sofascoreIdentityPlayers": 27,
+    "sofascoreIdentityPlayers": 32,
     "sofascoreIdentityCheckedAt": "2026-09-30",
     "sofascoreProfileFallback": "PUBLIC_WEB"
   },
@@ -192,13 +192,15 @@
       "position": "Zagueiros",
       "number": "34",
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 551810,
+      "image": "https://api.sofascore.com/api/v1/player/551810/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/bruno-alves/551810",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     },
     {
       "name": "Rômulo Júnior",
@@ -477,13 +479,15 @@
       "position": "Atacantes",
       "number": "77",
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 344077,
+      "image": "https://api.sofascore.com/api/v1/player/344077/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/diego-goncalves/344077",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     },
     {
       "name": "Yuri Tanque",
@@ -521,26 +525,30 @@
       "position": "Atacantes",
       "number": "27",
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 831516,
+      "image": "https://api.sofascore.com/api/v1/player/831516/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/caue/831516",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     },
     {
       "name": "João Carlos",
       "position": "Atacantes",
       "number": "21",
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 1462654,
+      "image": "https://api.sofascore.com/api/v1/player/1462654/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
-      "heatmap": null
+      "heatmap": null,
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/joao-carlos/1462654",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     },
     {
       "name": "Kauã Moroso",
@@ -579,14 +587,16 @@
       "position": "Zagueiros",
       "number": null,
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 2677500,
+      "image": "https://api.sofascore.com/api/v1/player/2677500/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
       "heatmap": null,
-      "sofascoreName": "Kayck"
+      "sofascoreName": "Kayck",
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/kayck/2677500",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     },
     {
       "name": "Sandry",
