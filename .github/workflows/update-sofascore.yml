@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "scripts/update-sofascore.mjs"
+      - "scripts/update_sofascore.py"
       - ".github/workflows/update-sofascore.yml"
   schedule:
     - cron: "17 */3 * * *"
@@ -19,13 +19,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Node
-        uses: actions/setup-node@v4
+      - name: Python
+        uses: actions/setup-python@v5
         with:
-          node-version: "22"
+          python-version: "3.12"
+
+      - name: Cliente HTTP com fingerprint Chrome
+        run: pip install --disable-pip-version-check curl_cffi
 
       - name: Enriquecer feed com Sofascore
-        run: node scripts/update-sofascore.mjs
+        run: python scripts/update_sofascore.py
 
       - name: Publicar somente se houver mudança
         run: |
