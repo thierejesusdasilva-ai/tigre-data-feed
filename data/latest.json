@@ -2,15 +2,17 @@
   "schemaVersion": 1,
   "club": "Criciúma Esporte Clube",
   "competition": "Brasileirão Série B",
-  "checkedAt": "2026-09-24T00:00:00Z",
+  "checkedAt": "2026-09-30T13:14:22.353Z",
   "sourceState": {
     "goal": "NOT_FETCHED",
-    "sofascore": "NOT_FETCHED",
+    "sofascore": "FETCH_ERROR",
     "officialRosterAt": "2026-09-24",
     "standingsFresh": false,
     "hasNewIndividualGoalStats": false,
     "sofascoreCommercialApproved": false,
-    "note": "Snapshot oficial; estatisticas individuais ainda pendentes de verificacao da GOAL API. Sem dados comerciais do Sofascore."
+    "note": "Snapshot oficial; estatisticas individuais ainda pendentes de verificacao da GOAL API. Sem dados comerciais do Sofascore.",
+    "sofascoreCheckedAt": "2026-09-30T13:14:22.353Z",
+    "sofascoreError": "/team/1984/players: HTTP 403"
   },
   "standings": [],
   "results": [
