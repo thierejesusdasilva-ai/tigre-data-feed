@@ -126,6 +126,11 @@ def main():
             time.sleep(0.25)
     except Exception as e:
         st = feed.setdefault("sourceState", {})
+        # Se já existe fallback web verificado, não o invalida e não gera commit
+        # repetitivo apenas porque o datacenter do GitHub foi bloqueado.
+        if st.get("sofascoreWebFallback"):
+            print(f"Sofascore API bloqueada no GitHub; preservando fallback web: {e}")
+            return
         st["sofascore"] = "FETCH_ERROR"
         st["sofascoreCheckedAt"] = checked
         st["sofascoreError"] = str(e)[:300]
