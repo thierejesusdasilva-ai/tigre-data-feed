@@ -35,7 +35,10 @@
     "heatmapFallbackMode": "provider-web-fallback",
     "heatmapPlayersVerified": 10,
     "heatmapVerifiedAt": "2026-09-30",
-    "heatmapPolicy": "Nunca gerar coordenadas artificiais; usar somente fonte verificada."
+    "heatmapPolicy": "Nunca gerar coordenadas artificiais; usar somente fonte verificada.",
+    "officialClubPhotos": "PRIMARY",
+    "officialClubPhotosCount": 28,
+    "officialClubPhotosUpdatedAt": "2026-09-30"
   },
   "standings": [],
   "results": [
@@ -162,7 +165,7 @@
       "number": "32",
       "goalId": null,
       "sofaId": 797866,
-      "image": "https://api.sofascore.com/api/v1/player/797866/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/g-airton-moraes-michellon.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -204,7 +207,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/airton/797866",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/797866/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/g-airton-moraes-michellon.jpg"
     },
     {
       "name": "Pedro",
@@ -212,7 +219,7 @@
       "number": "70",
       "goalId": null,
       "sofaId": 1631864,
-      "image": "https://api.sofascore.com/api/v1/player/1631864/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/g-pedro-henrique-santos-gomes.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -250,7 +257,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/pedro-henrique-santos-gomes/1631864",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1631864/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/g-pedro-henrique-santos-gomes.jpg"
     },
     {
       "name": "Rodrigo",
@@ -258,7 +269,7 @@
       "number": "3",
       "goalId": null,
       "sofaId": 886773,
-      "image": "https://api.sofascore.com/api/v1/player/886773/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-rodrigo-fagundes-de-freitas.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -328,7 +339,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 640410
+      "fotmobId": 640410,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/886773/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-rodrigo-fagundes-de-freitas.jpg"
     },
     {
       "name": "Castán",
@@ -336,7 +351,7 @@
       "number": "4",
       "goalId": null,
       "sofaId": 845110,
-      "image": "https://api.sofascore.com/api/v1/player/845110/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-luciano-castan-da-silva.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -385,7 +400,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/luciano-castan/845110",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/845110/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-luciano-castan-da-silva.jpg"
     },
     {
       "name": "César Martins",
@@ -393,7 +412,7 @@
       "number": null,
       "goalId": null,
       "sofaId": 329107,
-      "image": "https://api.sofascore.com/api/v1/player/329107/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-cesar-martins.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -450,7 +469,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 450293
+      "fotmobId": 450293,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/329107/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-cesar-martins.jpg"
     },
     {
       "name": "Bruno Alves",
@@ -458,7 +481,7 @@
       "number": "34",
       "goalId": null,
       "sofaId": 551810,
-      "image": "https://api.sofascore.com/api/v1/player/551810/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-bruno-fabiano-alves.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -514,7 +537,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 263948
+      "fotmobId": 263948,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/551810/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-bruno-fabiano-alves.jpg"
     },
     {
       "name": "Rômulo Júnior",
@@ -522,7 +549,7 @@
       "number": null,
       "goalId": null,
       "sofaId": 1117102,
-      "image": "https://api.sofascore.com/api/v1/player/1117102/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-romulo-helberte-pereira-junior.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -537,7 +564,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/romulo/1117102",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1117102/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-romulo-helberte-pereira-junior.jpg"
     },
     {
       "name": "Octávio",
@@ -545,7 +576,7 @@
       "number": "30",
       "goalId": null,
       "sofaId": 2433934,
-      "image": "https://api.sofascore.com/api/v1/player/2433934/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-octavio-henrique-de-jesus-goncalves.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -560,7 +591,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/henrique-octavio/2433934",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/2433934/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-octavio-henrique-de-jesus-goncalves.jpg"
     },
     {
       "name": "Ruan",
@@ -568,7 +603,7 @@
       "number": "43",
       "goalId": null,
       "sofaId": 1927514,
-      "image": "https://api.sofascore.com/api/v1/player/1927514/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/z-ruan-rodrigues-carvalho.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -609,7 +644,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/ruan-rodrigues-carvalho/1927514",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1927514/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/z-ruan-rodrigues-carvalho.jpg"
     },
     {
       "name": "Marcelo Hermes",
@@ -617,7 +656,7 @@
       "number": "22",
       "goalId": null,
       "sofaId": 783490,
-      "image": "https://api.sofascore.com/api/v1/player/783490/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/l-marcelo-hermes.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -674,7 +713,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 604563
+      "fotmobId": 604563,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/783490/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/l-marcelo-hermes.jpg"
     },
     {
       "name": "Marcinho",
@@ -682,7 +725,7 @@
       "number": "6",
       "goalId": null,
       "sofaId": 840148,
-      "image": "https://api.sofascore.com/api/v1/player/840148/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/l-marcio-almeida-de-oliveira.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -727,7 +770,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/marcinho/840148",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/840148/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/l-marcio-almeida-de-oliveira.jpg"
     },
     {
       "name": "Hiago",
@@ -735,7 +782,7 @@
       "number": "31",
       "goalId": null,
       "sofaId": 1914330,
-      "image": "https://api.sofascore.com/api/v1/player/1914330/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/l-hiago-accinelli-da-roza-alves.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -775,7 +822,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/hiago-alves/1914330",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1914330/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/l-hiago-accinelli-da-roza-alves.jpg"
     },
     {
       "name": "Willean Lepo",
@@ -783,7 +834,7 @@
       "number": null,
       "goalId": null,
       "sofaId": 868076,
-      "image": "https://api.sofascore.com/api/v1/player/868076/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/v-willean-bernardo-willemen.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -854,7 +905,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 942855
+      "fotmobId": 942855,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/868076/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/v-willean-bernardo-willemen.jpg"
     },
     {
       "name": "Gui Lobo",
@@ -862,7 +917,7 @@
       "number": "25",
       "goalId": null,
       "sofaId": 1148301,
-      "image": "https://api.sofascore.com/api/v1/player/1148301/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/v-guilherme-teixeira-lobo.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -910,7 +965,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/guilherme-lobo/1148301",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1148301/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/v-guilherme-teixeira-lobo.jpg"
     },
     {
       "name": "Jean Irmer",
@@ -918,7 +977,7 @@
       "number": "41",
       "goalId": null,
       "sofaId": 848630,
-      "image": "https://api.sofascore.com/api/v1/player/848630/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/v-jean-carlos-de-souza-irmer.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -972,7 +1031,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/jean-irmer/848630",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/848630/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/v-jean-carlos-de-souza-irmer.jpg"
     },
     {
       "name": "Ronald",
@@ -980,7 +1043,7 @@
       "number": "14",
       "goalId": null,
       "sofaId": 931521,
-      "image": "https://api.sofascore.com/api/v1/player/931521/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/v-ronald-dos-santos-lopes.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1020,7 +1083,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/ronald/931521",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/931521/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/v-ronald-dos-santos-lopes.jpg"
     },
     {
       "name": "Thiaguinho",
@@ -1028,7 +1095,7 @@
       "number": "50",
       "goalId": null,
       "sofaId": 1636364,
-      "image": "https://api.sofascore.com/api/v1/player/1636364/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/v-thiago-ramon-santos-modesto.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1072,7 +1139,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/thiago-ramon-santos-modesto/1636364",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1636364/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/v-thiago-ramon-santos-modesto.jpg"
     },
     {
       "name": "Eduardo",
@@ -1080,7 +1151,7 @@
       "number": "5",
       "goalId": null,
       "sofaId": 870800,
-      "image": "https://api.sofascore.com/api/v1/player/870800/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/m-eduardo-jacinto-de-biasi.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1140,7 +1211,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/eduardo-biasi/870800",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/870800/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/m-eduardo-jacinto-de-biasi.jpg"
     },
     {
       "name": "Fellipe Mateus",
@@ -1148,7 +1223,7 @@
       "number": "7",
       "goalId": null,
       "sofaId": 865321,
-      "image": "https://api.sofascore.com/api/v1/player/865321/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/m-fellipe-mateus-de-sena-araujo.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1204,7 +1279,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 851632
+      "fotmobId": 851632,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/865321/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/m-fellipe-mateus-de-sena-araujo.jpg"
     },
     {
       "name": "Jhonata Robert",
@@ -1212,7 +1291,7 @@
       "number": "10",
       "goalId": null,
       "sofaId": 998494,
-      "image": "https://api.sofascore.com/api/v1/player/998494/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/m-jhonata-robert-alves-da-silva.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1281,7 +1360,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 1098099
+      "fotmobId": 1098099,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/998494/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/m-jhonata-robert-alves-da-silva.jpg"
     },
     {
       "name": "Otero",
@@ -1289,7 +1372,7 @@
       "number": "91",
       "goalId": null,
       "sofaId": 845323,
-      "image": "https://api.sofascore.com/api/v1/player/845323/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-romulo-otero-vasquez.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1347,7 +1430,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 240371
+      "fotmobId": 240371,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/845323/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-romulo-otero-vasquez.jpg"
     },
     {
       "name": "Waguininho",
@@ -1355,7 +1442,7 @@
       "number": "13",
       "goalId": null,
       "sofaId": 924251,
-      "image": "https://api.sofascore.com/api/v1/player/924251/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-wagner-da-silva-souza.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1425,7 +1512,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 641000
+      "fotmobId": 641000,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/924251/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-wagner-da-silva-souza.jpg"
     },
     {
       "name": "Nicolas",
@@ -1433,7 +1524,7 @@
       "number": "9",
       "goalId": null,
       "sofaId": 866564,
-      "image": "https://api.sofascore.com/api/v1/player/866564/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-nicolas-godinho-johann.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1503,7 +1594,11 @@
         "verifiedAt": "2026-09-30",
         "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
       },
-      "fotmobId": 268068
+      "fotmobId": 268068,
+      "imageFallback": "https://api.sofascore.com/api/v1/player/866564/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-nicolas-godinho-johann.jpg"
     },
     {
       "name": "Diego Gonçalves",
@@ -1511,7 +1606,7 @@
       "number": "77",
       "goalId": null,
       "sofaId": 344077,
-      "image": "https://api.sofascore.com/api/v1/player/344077/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-diego-goncalves.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1558,7 +1653,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/diego-goncalves/344077",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/344077/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-diego-goncalves.jpg"
     },
     {
       "name": "Yuri Tanque",
@@ -1566,7 +1665,7 @@
       "number": null,
       "goalId": null,
       "sofaId": 877626,
-      "image": "https://api.sofascore.com/api/v1/player/877626/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-yuri-jonathan-vitor-coelho.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1606,7 +1705,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/yuri/877626",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/877626/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-yuri-jonathan-vitor-coelho.jpg"
     },
     {
       "name": "Romarinho",
@@ -1614,7 +1717,7 @@
       "number": "11",
       "goalId": null,
       "sofaId": 870578,
-      "image": "https://api.sofascore.com/api/v1/player/870578/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-jose-romario-silva-de-souza.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1660,7 +1763,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/romarinho/870578",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/870578/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-jose-romario-silva-de-souza.jpg"
     },
     {
       "name": "Cauê",
@@ -1668,7 +1775,7 @@
       "number": "27",
       "goalId": null,
       "sofaId": 831516,
-      "image": "https://api.sofascore.com/api/v1/player/831516/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-caue-vinicius-dos-santos.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1707,7 +1814,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/caue/831516",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/831516/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-caue-vinicius-dos-santos.jpg"
     },
     {
       "name": "João Carlos",
@@ -1715,7 +1826,7 @@
       "number": "21",
       "goalId": null,
       "sofaId": 1462654,
-      "image": "https://api.sofascore.com/api/v1/player/1462654/image",
+      "image": "https://www.criciuma.com.br/upload/jogadores/a-joao-carlos-barros-lopes.jpg",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
@@ -1754,7 +1865,11 @@
         "structuredCoordinatesAvailable": false,
         "profileUrl": "https://www.sofascore.com/pt/football/player/joao-carlos/1462654",
         "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+      },
+      "imageFallback": "https://api.sofascore.com/api/v1/player/1462654/image",
+      "imageFallback2": null,
+      "imageSource": "Criciúma E.C. - retrato oficial",
+      "officialPhotoUrl": "https://www.criciuma.com.br/upload/jogadores/a-joao-carlos-barros-lopes.jpg"
     },
     {
       "name": "Kauã Moroso",
