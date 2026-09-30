@@ -30,7 +30,12 @@
     "heatmapMode": "PROVIDER_LINK_UNTIL_STRUCTURED_DATA_AVAILABLE",
     "dataPolicy": "No estimated or fabricated player statistics",
     "rosterVerifiedAt": "2026-09-30",
-    "rosterVerifiedSource": "Sofascore public team page"
+    "rosterVerifiedSource": "Sofascore public team page",
+    "heatmapFallbackProvider": "FotMob",
+    "heatmapFallbackMode": "provider-web-fallback",
+    "heatmapPlayersVerified": 10,
+    "heatmapVerifiedAt": "2026-09-30",
+    "heatmapPolicy": "Nunca gerar coordenadas artificiais; usar somente fonte verificada."
   },
   "standings": [],
   "results": [
@@ -309,12 +314,21 @@
         "source": "Sofascore public player page"
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/rodrigo-fagundes/886773",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/640410/rodrigo",
+        "touches": 969,
+        "shots": null,
+        "goals": null,
+        "xG": null,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 640410
     },
     {
       "name": "Castán",
@@ -422,12 +436,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/cesar-martins/329107",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/450293/cesar-martins",
+        "touches": 1060,
+        "shots": null,
+        "goals": null,
+        "xG": null,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 450293
     },
     {
       "name": "Bruno Alves",
@@ -477,12 +500,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/bruno-alves/551810",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/263948/bruno-alves",
+        "touches": 644,
+        "shots": null,
+        "goals": null,
+        "xG": null,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 263948
     },
     {
       "name": "Rômulo Júnior",
@@ -628,12 +660,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/marcelo-hermes/783490",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/604563/marcelo-hermes",
+        "touches": 1708,
+        "shots": 46,
+        "goals": 4,
+        "xG": 2.15,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 604563
     },
     {
       "name": "Marcinho",
@@ -799,12 +840,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/willean-lepo/868076",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/players/942855/willean-lepo",
+        "touches": 1470,
+        "shots": 24,
+        "goals": 3,
+        "xG": 1.77,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 942855
     },
     {
       "name": "Gui Lobo",
@@ -1140,12 +1190,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/fellipe-mateus/865321",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/851632/fellipe-mateus",
+        "touches": 1141,
+        "shots": 33,
+        "goals": 4,
+        "xG": 3.44,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 851632
     },
     {
       "name": "Jhonata Robert",
@@ -1208,12 +1267,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/jhonata-robert/998494",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/1098099/jhonata-robert",
+        "touches": 446,
+        "shots": 25,
+        "goals": 1,
+        "xG": 2.53,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 1098099
     },
     {
       "name": "Otero",
@@ -1265,12 +1333,21 @@
         }
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/romulo-otero/845323",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/240371/romulo-otero",
+        "touches": 996,
+        "shots": 57,
+        "goals": 3,
+        "xG": 3.39,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 240371
     },
     {
       "name": "Waguininho",
@@ -1334,12 +1411,21 @@
         "source": "Sofascore public player page"
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/waguininho/924251",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/pt-BR/players/641000/waguininho",
+        "touches": 827,
+        "shots": 39,
+        "goals": 4,
+        "xG": 3.07,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 641000
     },
     {
       "name": "Nicolas",
@@ -1403,12 +1489,21 @@
         "source": "Sofascore public player page"
       },
       "heatmapMeta": {
-        "provider": "Sofascore",
+        "provider": "FotMob",
+        "kind": "season",
+        "competition": "Série B 2026",
         "availableOnProvider": true,
+        "renderMode": "provider-web-fallback",
         "structuredCoordinatesAvailable": false,
-        "profileUrl": "https://www.sofascore.com/pt/football/player/nicolas/866564",
-        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
-      }
+        "sourceUrl": "https://www.fotmob.com/players/268068/nicolas",
+        "touches": 264,
+        "shots": 19,
+        "goals": 2,
+        "xG": 2.16,
+        "verifiedAt": "2026-09-30",
+        "note": "Heatmap real disponível na página pública do FotMob. Usar este fallback visual quando o endpoint estruturado do Sofascore retornar 403."
+      },
+      "fotmobId": 268068
     },
     {
       "name": "Diego Gonçalves",
