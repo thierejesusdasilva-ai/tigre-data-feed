@@ -16,7 +16,7 @@
     "sofascoreTeamId": 1984,
     "sofascoreAutomationStatus": "GITHUB_EGRESS_403",
     "sofascoreWebFallback": true,
-    "sofascoreIdentityPlayers": 32,
+    "sofascoreIdentityPlayers": 34,
     "sofascoreIdentityCheckedAt": "2026-09-30",
     "sofascoreProfileFallback": "PUBLIC_WEB"
   },
@@ -383,14 +383,22 @@
       "position": "Meias",
       "number": "5",
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 870800,
+      "image": "https://api.sofascore.com/api/v1/player/870800/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
       "heatmap": null,
-      "sofascoreName": "Eduardo Biasi"
+      "sofascoreName": "Eduardo Biasi",
+      "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/eduardo-biasi/870800",
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "lastVerifiedSofascoreRating": {
+        "rating": 6.6,
+        "match": "Criciúma 3 x 0 Avaí",
+        "date": "2026-09-27",
+        "source": "Sofascore public page"
+      }
     },
     {
       "name": "Fellipe Mateus",
@@ -633,14 +641,16 @@
       "position": "Atacantes",
       "number": null,
       "goalId": null,
-      "sofaId": null,
-      "image": null,
+      "sofaId": 2163481,
+      "image": "https://api.sofascore.com/api/v1/player/2163481/image",
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
       "lastMatch": null,
       "heatmap": null,
-      "sofascoreName": "Thales Lourenco Rodrigues"
+      "sofascoreName": "Thales Lourenco Rodrigues",
+      "sofascoreProfileUrl": "https://www.sofascore.com/football/player/thales/2163481",
+      "sofascoreIdentityCheckedAt": "2026-09-30"
     }
   ]
 }
