@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "club": "Criciúma Esporte Clube",
   "competition": "Brasileirão Série B",
-  "checkedAt": "2026-09-30T13:40:00Z",
+  "checkedAt": "2026-09-30T13:50:00Z",
   "sourceState": {
     "goal": "NOT_FETCHED",
     "sofascore": "WEB_FALLBACK_OK",
@@ -24,7 +24,11 @@
     "fotmobTeamId": 7729,
     "fotmobCompetitionId": 8814,
     "fotmobSeasonId": 1000000394,
-    "seasonPlayerStatsUpdated": true
+    "seasonPlayerStatsUpdated": true,
+    "latestMatchRatingsVerified": 7,
+    "latestMatchRatingsDate": "2026-09-27",
+    "heatmapMode": "PROVIDER_LINK_UNTIL_STRUCTURED_DATA_AVAILABLE",
+    "dataPolicy": "No estimated or fabricated player statistics"
   },
   "standings": [],
   "results": [
@@ -136,6 +140,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/alisson/840166",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -179,6 +190,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/airton/797866",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -218,6 +236,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/pedro-henrique-santos-gomes/1631864",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -230,7 +255,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 8.1,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/rodrigo-fagundes/886773"
+      },
       "heatmap": null,
       "sofascoreName": "Rodrigo Fagundes",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/rodrigo-fagundes/886773",
@@ -267,6 +299,19 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "lastVerifiedSofascoreRating": {
+        "rating": 8.1,
+        "match": "Criciúma 3 x 0 Avaí",
+        "date": "2026-09-27",
+        "source": "Sofascore public player page"
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/rodrigo-fagundes/886773",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -317,6 +362,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/luciano-castan/845110",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -366,6 +418,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/cesar-martins/329107",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -414,6 +473,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/bruno-alves/551810",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -430,7 +496,14 @@
       "heatmap": null,
       "sofascoreName": "Rômulo",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/romulo/1117102",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/romulo/1117102",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Octávio",
@@ -446,7 +519,14 @@
       "heatmap": null,
       "sofascoreName": "Octavio Henrique",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/henrique-octavio/2433934",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/henrique-octavio/2433934",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Ruan",
@@ -488,6 +568,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/ruan-rodrigues-carvalho/1927514",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -537,6 +624,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/marcelo-hermes/783490",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -583,6 +677,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/marcinho/840148",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -624,6 +725,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/hiago-alves/1914330",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -636,7 +744,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 8.7,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/willean-lepo/868076"
+      },
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/willean-lepo/868076",
       "sofascoreIdentityCheckedAt": "2026-09-30",
@@ -644,7 +759,7 @@
         "rating": 8.7,
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
-        "source": "Sofascore public page"
+        "source": "Sofascore public player page"
       },
       "seasonStats": {
         "competition": "Brasileirão Série B 2026",
@@ -680,6 +795,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/willean-lepo/868076",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -729,6 +851,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/guilherme-lobo/1148301",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -741,7 +870,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 7,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/jean-irmer/848630"
+      },
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/jean-irmer/848630",
       "sofascoreIdentityCheckedAt": "2026-09-30",
@@ -771,6 +907,19 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "lastVerifiedSofascoreRating": {
+        "rating": 7,
+        "match": "Criciúma 3 x 0 Avaí",
+        "date": "2026-09-27",
+        "source": "Sofascore public player page"
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/jean-irmer/848630",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -812,6 +961,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/ronald/931521",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -857,6 +1013,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/thiago-ramon-santos-modesto/1636364",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -869,7 +1032,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 6.6,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/eduardo-biasi/870800"
+      },
       "heatmap": null,
       "sofascoreName": "Eduardo Biasi",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/eduardo-biasi/870800",
@@ -878,7 +1048,7 @@
         "rating": 6.6,
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
-        "source": "Sofascore public page"
+        "source": "Sofascore public player page"
       },
       "seasonStats": {
         "competition": "Brasileirão Série B 2026",
@@ -911,6 +1081,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/eduardo-biasi/870800",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -959,6 +1136,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/fellipe-mateus/865321",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -971,7 +1155,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 6.7,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/jhonata-robert/998494"
+      },
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/jhonata-robert/998494",
       "sofascoreIdentityCheckedAt": "2026-09-30",
@@ -979,7 +1170,7 @@
         "rating": 6.7,
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
-        "source": "Sofascore public page"
+        "source": "Sofascore public player page"
       },
       "seasonStats": {
         "competition": "Brasileirão Série B 2026",
@@ -1013,6 +1204,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/jhonata-robert/998494",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1063,6 +1261,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/romulo-otero/845323",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1075,7 +1280,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 6.3,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/waguininho/924251"
+      },
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/waguininho/924251",
       "sofascoreIdentityCheckedAt": "2026-09-30",
@@ -1112,6 +1324,19 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "lastVerifiedSofascoreRating": {
+        "rating": 6.3,
+        "match": "Criciúma 3 x 0 Avaí",
+        "date": "2026-09-27",
+        "source": "Sofascore public player page"
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/waguininho/924251",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1124,7 +1349,14 @@
       "stats": null,
       "statsSource": null,
       "statsCheckedAt": null,
-      "lastMatch": null,
+      "lastMatch": {
+        "matchDate": "2026-09-27",
+        "match": "Criciúma 3 x 0 Avaí",
+        "competition": "Brasileirão Série B 2026",
+        "sofascoreRating": 6.3,
+        "ratingSource": "Sofascore public player page",
+        "sourceUrl": "https://www.sofascore.com/pt/football/player/nicolas/866564"
+      },
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/nicolas/866564",
       "sofascoreIdentityCheckedAt": "2026-09-30",
@@ -1161,6 +1393,19 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "lastVerifiedSofascoreRating": {
+        "rating": 6.3,
+        "match": "Criciúma 3 x 0 Avaí",
+        "date": "2026-09-27",
+        "source": "Sofascore public player page"
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/nicolas/866564",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1209,6 +1454,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/diego-goncalves/344077",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1250,6 +1502,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/yuri/877626",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1297,6 +1556,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/romarinho/870578",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1337,6 +1603,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/caue/831516",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1377,6 +1650,13 @@
           "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
           "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
         }
+      },
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/joao-carlos/1462654",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
       }
     },
     {
@@ -1393,7 +1673,14 @@
       "heatmap": null,
       "sofascoreName": "Kauã Moroso",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/kaua-moroso/2472108",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/kaua-moroso/2472108",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Erick Garcia",
@@ -1409,7 +1696,14 @@
       "heatmap": null,
       "sofascoreName": "Erick Garcia",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/erick-garcia/1808902",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/erick-garcia/1808902",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Kayck",
@@ -1425,7 +1719,14 @@
       "heatmap": null,
       "sofascoreName": "Kayck",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/kayck/2677500",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/kayck/2677500",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Sandry",
@@ -1441,7 +1742,14 @@
       "heatmap": null,
       "sofascoreName": "Sandry",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/sandry/973847",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/pt/football/player/sandry/973847",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     },
     {
       "name": "Eliel",
@@ -1471,7 +1779,14 @@
       "heatmap": null,
       "sofascoreName": "Thales Lourenco Rodrigues",
       "sofascoreProfileUrl": "https://www.sofascore.com/football/player/thales/2163481",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "heatmapMeta": {
+        "provider": "Sofascore",
+        "availableOnProvider": true,
+        "structuredCoordinatesAvailable": false,
+        "profileUrl": "https://www.sofascore.com/football/player/thales/2163481",
+        "note": "O mapa de calor existe no perfil/partida do Sofascore, mas as coordenadas estruturadas não estão expostas pelo fallback web usado pelo Tigre Data."
+      }
     }
   ]
 }
