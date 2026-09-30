@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "club": "Criciúma Esporte Clube",
   "competition": "Brasileirão Série B",
-  "checkedAt": "2026-09-30T13:20:00Z",
+  "checkedAt": "2026-09-30T13:40:00Z",
   "sourceState": {
     "goal": "NOT_FETCHED",
     "sofascore": "WEB_FALLBACK_OK",
@@ -18,7 +18,13 @@
     "sofascoreWebFallback": true,
     "sofascoreIdentityPlayers": 34,
     "sofascoreIdentityCheckedAt": "2026-09-30",
-    "sofascoreProfileFallback": "PUBLIC_WEB"
+    "sofascoreProfileFallback": "PUBLIC_WEB",
+    "fotmob": "WEB_VERIFIED",
+    "fotmobCheckedAt": "2026-09-30",
+    "fotmobTeamId": 7729,
+    "fotmobCompetitionId": 8814,
+    "fotmobSeasonId": 1000000394,
+    "seasonPlayerStatsUpdated": true
   },
   "standings": [],
   "results": [
@@ -107,7 +113,30 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/alisson/840166",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 2,
+        "minutesPlayed": 180,
+        "xA": 0,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Airton",
@@ -122,7 +151,35 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/airton/797866",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 21,
+        "minutesPlayed": 1890,
+        "fotmobRating": 7.21,
+        "xA": 0,
+        "clearances": 28,
+        "yellowCards": 1,
+        "accuratePassesPer90": 15.6,
+        "passSuccessPct": 65.7,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Pedro",
@@ -138,7 +195,30 @@
       "heatmap": null,
       "sofascoreName": "Pedro Henrique",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/pedro-henrique-santos-gomes/1631864",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 7,
+        "minutesPlayed": 630,
+        "xA": 0,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Rodrigo",
@@ -154,7 +234,40 @@
       "heatmap": null,
       "sofascoreName": "Rodrigo Fagundes",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/rodrigo-fagundes/886773",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 22,
+        "minutesPlayed": 1890,
+        "assists": 1,
+        "fotmobRating": 7.2,
+        "xG": 1.9,
+        "xA": 0.5,
+        "tackles": 22,
+        "interceptions": 46,
+        "clearances": 120,
+        "yellowCards": 2,
+        "accuratePassesPer90": 35.1,
+        "passSuccessPct": 87,
+        "shotsOnTargetPer90": 0.1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Castán",
@@ -170,7 +283,41 @@
       "heatmap": null,
       "sofascoreName": "Luciano Castan",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/luciano-castan/845110",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 23,
+        "minutesPlayed": 2017,
+        "goals": 2,
+        "assists": 1,
+        "fotmobRating": 7.06,
+        "xG": 1.2,
+        "xA": 0.5,
+        "tackles": 23,
+        "interceptions": 27,
+        "clearances": 94,
+        "yellowCards": 7,
+        "accuratePassesPer90": 38.8,
+        "passSuccessPct": 81.5,
+        "shotsOnTargetPer90": 0.2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "César Martins",
@@ -185,7 +332,41 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/cesar-martins/329107",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 23,
+        "minutesPlayed": 2007,
+        "goals": 1,
+        "assists": 1,
+        "fotmobRating": 7.26,
+        "xG": 2.2,
+        "xA": 0.3,
+        "tackles": 23,
+        "interceptions": 40,
+        "clearances": 182,
+        "yellowCards": 3,
+        "accuratePassesPer90": 41.8,
+        "passSuccessPct": 81.7,
+        "shotsOnTargetPer90": 0.2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Bruno Alves",
@@ -200,7 +381,40 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/bruno-alves/551810",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 16,
+        "minutesPlayed": 1137,
+        "goals": 2,
+        "fotmobRating": 6.82,
+        "xG": 0.9,
+        "xA": 0.1,
+        "tackles": 22,
+        "interceptions": 22,
+        "clearances": 87,
+        "yellowCards": 7,
+        "accuratePassesPer90": 28.1,
+        "passSuccessPct": 77.5,
+        "shotsOnTargetPer90": 0.3,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Rômulo Júnior",
@@ -248,7 +462,33 @@
       "heatmap": null,
       "sofascoreName": "Ruan Rodrigues Carvalho",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/ruan-rodrigues-carvalho/1927514",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 8,
+        "minutesPlayed": 565,
+        "assists": 1,
+        "xG": 0.7,
+        "xA": 0.7,
+        "yellowCards": 2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Marcelo Hermes",
@@ -263,7 +503,41 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/marcelo-hermes/783490",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 29,
+        "minutesPlayed": 2589,
+        "goals": 4,
+        "assists": 2,
+        "fotmobRating": 7.13,
+        "xG": 2.2,
+        "xA": 3.4,
+        "tackles": 50,
+        "interceptions": 23,
+        "clearances": 63,
+        "yellowCards": 3,
+        "accuratePassesPer90": 24.6,
+        "passSuccessPct": 75.9,
+        "shotsOnTargetPer90": 0.4,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Marcinho",
@@ -278,7 +552,38 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/marcinho/840148",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 16,
+        "minutesPlayed": 900,
+        "xG": 0.9,
+        "xA": 1.8,
+        "tackles": 11,
+        "interceptions": 8,
+        "clearances": 20,
+        "yellowCards": 1,
+        "accuratePassesPer90": 30.3,
+        "passSuccessPct": 81.5,
+        "shotsOnTargetPer90": 0.2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Hiago",
@@ -294,7 +599,32 @@
       "heatmap": null,
       "sofascoreName": "Hiago Alves",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/hiago-alves/1914330",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 10,
+        "minutesPlayed": 269,
+        "xG": 0.7,
+        "xA": 0.8,
+        "yellowCards": 1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Willean Lepo",
@@ -315,6 +645,41 @@
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
         "source": "Sofascore public page"
+      },
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 24,
+        "minutesPlayed": 1712,
+        "goals": 3,
+        "assists": 2,
+        "fotmobRating": 7.21,
+        "xG": 1.8,
+        "xA": 2.7,
+        "tackles": 35,
+        "interceptions": 19,
+        "clearances": 49,
+        "yellowCards": 3,
+        "redCards": 1,
+        "accuratePassesPer90": 26.7,
+        "passSuccessPct": 76.3,
+        "shotsOnTargetPer90": 0.4,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
       }
     },
     {
@@ -331,7 +696,40 @@
       "heatmap": null,
       "sofascoreName": "Guilherme Lobo",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/guilherme-lobo/1148301",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 27,
+        "minutesPlayed": 1931,
+        "assists": 2,
+        "fotmobRating": 7.02,
+        "xG": 2.4,
+        "xA": 1.4,
+        "tackles": 31,
+        "interceptions": 23,
+        "clearances": 29,
+        "yellowCards": 5,
+        "accuratePassesPer90": 41.2,
+        "passSuccessPct": 84.6,
+        "shotsOnTargetPer90": 0.1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Jean Irmer",
@@ -346,7 +744,34 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/jean-irmer/848630",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 14,
+        "minutesPlayed": 438,
+        "xG": 0.1,
+        "xA": 0.1,
+        "yellowCards": 3,
+        "accuratePassesPer90": 20,
+        "passSuccessPct": 70.8,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Ronald",
@@ -361,7 +786,33 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/ronald/931521",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 12,
+        "minutesPlayed": 628,
+        "assists": 1,
+        "xG": 0.1,
+        "xA": 0.5,
+        "yellowCards": 1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Thiaguinho",
@@ -376,7 +827,37 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/thiago-ramon-santos-modesto/1636364",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 16,
+        "minutesPlayed": 476,
+        "xG": 0.1,
+        "xA": 0.2,
+        "tackles": 10,
+        "interceptions": 5,
+        "clearances": 1,
+        "yellowCards": 2,
+        "accuratePassesPer90": 35.1,
+        "passSuccessPct": 87.4,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Eduardo",
@@ -398,6 +879,38 @@
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
         "source": "Sofascore public page"
+      },
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 19,
+        "minutesPlayed": 1240,
+        "fotmobRating": 6.68,
+        "xG": 0.1,
+        "xA": 0.3,
+        "tackles": 31,
+        "interceptions": 12,
+        "clearances": 14,
+        "yellowCards": 6,
+        "accuratePassesPer90": 34.2,
+        "passSuccessPct": 89.9,
+        "shotsOnTargetPer90": 0.1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
       }
     },
     {
@@ -413,7 +926,40 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/fellipe-mateus/865321",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 27,
+        "minutesPlayed": 2017,
+        "goals": 4,
+        "fotmobRating": 7.1,
+        "xG": 3.4,
+        "xA": 2.8,
+        "tackles": 27,
+        "interceptions": 15,
+        "clearances": 12,
+        "yellowCards": 3,
+        "accuratePassesPer90": 24.2,
+        "passSuccessPct": 81.1,
+        "shotsOnTargetPer90": 0.5,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Jhonata Robert",
@@ -434,6 +980,39 @@
         "match": "Criciúma 3 x 0 Avaí",
         "date": "2026-09-27",
         "source": "Sofascore public page"
+      },
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 20,
+        "minutesPlayed": 758,
+        "goals": 1,
+        "fotmobRating": 6.88,
+        "xG": 2.4,
+        "xA": 2.6,
+        "tackles": 14,
+        "interceptions": 2,
+        "clearances": 5,
+        "yellowCards": 2,
+        "accuratePassesPer90": 27,
+        "passSuccessPct": 75.4,
+        "shotsOnTargetPer90": 0.8,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
       }
     },
     {
@@ -450,7 +1029,41 @@
       "heatmap": null,
       "sofascoreName": "Rómulo Otero",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/romulo-otero/845323",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 27,
+        "minutesPlayed": 1558,
+        "goals": 3,
+        "assists": 3,
+        "fotmobRating": 6.81,
+        "xG": 3.4,
+        "xA": 3.7,
+        "tackles": 15,
+        "interceptions": 2,
+        "clearances": 1,
+        "yellowCards": 3,
+        "accuratePassesPer90": 18.7,
+        "passSuccessPct": 78.2,
+        "shotsOnTargetPer90": 0.8,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Waguininho",
@@ -465,7 +1078,41 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/waguininho/924251",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 29,
+        "minutesPlayed": 2005,
+        "goals": 4,
+        "assists": 1,
+        "fotmobRating": 6.7,
+        "xG": 3.1,
+        "xA": 1.5,
+        "tackles": 20,
+        "interceptions": 6,
+        "clearances": 23,
+        "yellowCards": 5,
+        "accuratePassesPer90": 13.5,
+        "passSuccessPct": 72.7,
+        "shotsOnTargetPer90": 0.5,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Nicolas",
@@ -480,7 +1127,41 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/nicolas/866564",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 17,
+        "minutesPlayed": 778,
+        "goals": 3,
+        "assists": 1,
+        "fotmobRating": 6.48,
+        "xG": 2.1,
+        "xA": 0.6,
+        "tackles": 5,
+        "interceptions": 1,
+        "clearances": 8,
+        "yellowCards": 2,
+        "accuratePassesPer90": 13,
+        "passSuccessPct": 78.8,
+        "shotsOnTargetPer90": 0.8,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Diego Gonçalves",
@@ -495,7 +1176,40 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/diego-goncalves/344077",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 20,
+        "minutesPlayed": 772,
+        "goals": 2,
+        "fotmobRating": 6.39,
+        "xG": 3.5,
+        "xA": 0.9,
+        "tackles": 6,
+        "interceptions": 4,
+        "clearances": 11,
+        "yellowCards": 3,
+        "accuratePassesPer90": 18.4,
+        "passSuccessPct": 70.9,
+        "shotsOnTargetPer90": 1.2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Yuri Tanque",
@@ -511,7 +1225,32 @@
       "heatmap": null,
       "sofascoreName": "Yuri",
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/yuri/877626",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 7,
+        "minutesPlayed": 142,
+        "xG": 1.2,
+        "xA": 0.3,
+        "yellowCards": 2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Romarinho",
@@ -526,7 +1265,39 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/romarinho/870578",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 18,
+        "minutesPlayed": 553,
+        "assists": 3,
+        "xG": 0.3,
+        "xA": 1.4,
+        "tackles": 3,
+        "interceptions": 4,
+        "clearances": 1,
+        "yellowCards": 2,
+        "accuratePassesPer90": 22.9,
+        "passSuccessPct": 84.2,
+        "shotsOnTargetPer90": 0.2,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Cauê",
@@ -541,7 +1312,32 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/caue/831516",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 14,
+        "minutesPlayed": 394,
+        "goals": 1,
+        "xG": 0.8,
+        "xA": 0.3,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "João Carlos",
@@ -556,7 +1352,32 @@
       "lastMatch": null,
       "heatmap": null,
       "sofascoreProfileUrl": "https://www.sofascore.com/pt/football/player/joao-carlos/1462654",
-      "sofascoreIdentityCheckedAt": "2026-09-30"
+      "sofascoreIdentityCheckedAt": "2026-09-30",
+      "seasonStats": {
+        "competition": "Brasileirão Série B 2026",
+        "season": 2026,
+        "updatedAt": "2026-09-30",
+        "sources": [],
+        "appearances": 9,
+        "minutesPlayed": 154,
+        "xG": 0.4,
+        "xA": 0.1,
+        "yellowCards": 1,
+        "source": "FotMob + Sofascore",
+        "sourceUrls": {
+          "minutes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/mins_played/team/7729/criciuma",
+          "goals": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goals/team/7729/players-teams",
+          "assists": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/goal_assist/team/7729/criciuma",
+          "rating": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/rating/team/7729/criciuma",
+          "xg": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/expected_goals/team/7729/criciuma",
+          "xa": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/expected_assists/team/7729/teams-players",
+          "tackles": "https://www.fotmob.com/en-GB/leagues/8814/stats/season/1000000394/players/total_tackle/team/7729/criciuma",
+          "interceptions": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/interception/team/7729/criciuma",
+          "clearances": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/effective_clearance/team/7729/players-teams",
+          "cards": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/yellow_card/team/7729/criciuma-players",
+          "passes": "https://www.fotmob.com/pt-BR/leagues/8814/stats/season/1000000394/players/accurate_pass/team/7729/criciuma"
+        }
+      }
     },
     {
       "name": "Kauã Moroso",
