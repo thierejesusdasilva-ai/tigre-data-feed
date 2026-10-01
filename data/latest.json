@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "club": "Criciúma Esporte Clube",
   "competition": "Brasileirão Série B",
-  "checkedAt": "2026-09-30T13:50:00Z",
+  "checkedAt": "2026-10-01T01:16:00Z",
   "sourceState": {
     "goal": "NOT_FETCHED",
     "sofascore": "WEB_FALLBACK_OK",
@@ -38,12 +38,16 @@
     "heatmapPolicy": "Nunca gerar coordenadas artificiais; usar somente fonte verificada.",
     "officialClubPhotos": "PRIMARY",
     "officialClubPhotosCount": 28,
-    "officialClubPhotosUpdatedAt": "2026-09-30"
+    "officialClubPhotosUpdatedAt": "2026-09-30",
+    "matchIdentityFixAt": "2026-10-01T01:16:00Z",
+    "matchIdentityPolicy": "stable id by fixture; official records reuse GOAL id when same match",
+    "futureMatchesExcludedFromForm": true,
+    "teamBadgesEmbeddedInMatches": true
   },
   "standings": [],
   "results": [
     {
-      "id": null,
+      "id": "fixture-2026-09-27-criciuma-avai",
       "leagueName": "Brasileirão Série B 2026",
       "matchRound": 30,
       "matchDate": "2026-09-27",
@@ -61,21 +65,45 @@
       "source": "Sofascore - página pública",
       "goals": [
         {
-          "player": "Nicolas",
-          "minute": 49
+          "player": "Reynaldo",
+          "minute": 48,
+          "ownGoal": true,
+          "team": "Avaí"
         },
         {
           "player": "Luciano Castan",
-          "minute": 59
+          "minute": 58,
+          "ownGoal": false,
+          "team": "Criciúma"
         },
         {
           "player": "Willean Lepo",
-          "minute": 82
+          "minute": 81,
+          "ownGoal": false,
+          "team": "Criciúma"
         }
-      ]
+      ],
+      "homeTeam": {
+        "id": "cmr7wu0669kvmrx06fkp8yv5z",
+        "name": "Criciúma",
+        "badge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+        "country": "Brazil"
+      },
+      "awayTeam": {
+        "id": "cmr7wu05y9kvgrx06o72ujuek",
+        "name": "Avaí",
+        "badge": "https://media.goal-api.com/badges/1743_avai.jpg",
+        "country": "Brazil"
+      },
+      "homeTeamBadge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "awayTeamBadge": "https://media.goal-api.com/badges/1743_avai.jpg",
+      "homeTeamLogo": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "awayTeamLogo": "https://media.goal-api.com/badges/1743_avai.jpg",
+      "verifiedBy": "Avaí F.C. + Criciúma E.C.",
+      "verifiedAt": "2026-10-01T01:16:00Z"
     },
     {
-      "id": null,
+      "id": "cmt71roz1sycst107j8uak7kn",
       "leagueName": "Brasileirão Série B 2026",
       "matchRound": 29,
       "matchDate": "2026-09-22",
@@ -90,12 +118,29 @@
       "dataSource": "Criciúma Esporte Clube",
       "sourceUrl": "https://www.criciumaec.com.br/servico-de-jogo/ficha/865-criciuma-x-operario-pr",
       "apiBacked": false,
-      "source": "Criciúma EC - oficial"
+      "source": "Criciúma EC - oficial",
+      "homeTeam": {
+        "id": "cmr7wu0669kvmrx06fkp8yv5z",
+        "name": "Criciúma",
+        "badge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+        "country": "Brazil"
+      },
+      "awayTeam": {
+        "id": "cmr7wu05w9kverx06sb8ozy6w",
+        "name": "Operário-PR",
+        "badge": "https://media.goal-api.com/badges/1742_operario-pr.jpg",
+        "country": "Brazil"
+      },
+      "homeTeamBadge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "awayTeamBadge": "https://media.goal-api.com/badges/1742_operario-pr.jpg",
+      "homeTeamLogo": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "awayTeamLogo": "https://media.goal-api.com/badges/1742_operario-pr.jpg",
+      "verifiedBy": "Criciúma E.C. - oficial"
     }
   ],
   "upcoming": [
     {
-      "id": null,
+      "id": "fixture-2026-10-02-londrina-criciuma",
       "leagueName": "Brasileirão Série B 2026",
       "matchRound": 31,
       "matchDate": "2026-10-02",
@@ -110,7 +155,25 @@
       "dataSource": "Sofascore",
       "sourceUrl": "https://www.sofascore.com/pt/football/match/londrina-criciuma/JOsxP",
       "apiBacked": false,
-      "source": "Sofascore - página pública"
+      "source": "Sofascore - página pública",
+      "homeTeam": {
+        "id": "cmrkx1h3w0rg3ml07nfcb5qes",
+        "name": "Londrina",
+        "badge": "https://media.goal-api.com/badges/1785_londrina.jpg",
+        "country": "Brazil"
+      },
+      "awayTeam": {
+        "id": "cmr7wu0669kvmrx06fkp8yv5z",
+        "name": "Criciúma",
+        "badge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+        "country": "Brazil"
+      },
+      "homeTeamBadge": "https://media.goal-api.com/badges/1785_londrina.jpg",
+      "awayTeamBadge": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "homeTeamLogo": "https://media.goal-api.com/badges/1785_londrina.jpg",
+      "awayTeamLogo": "https://media.goal-api.com/badges/1802_criciuma.jpg",
+      "isFuture": true,
+      "countsTowardForm": false
     }
   ],
   "players": [
